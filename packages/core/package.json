@@ -1,0 +1,13 @@
+{
+  "name": "@stairs/core",
+  "version": "1.0.0",
+  "description": "core",
+  "author": "IamZJT",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@stairs/array": "workspace:^1.0.0",
+    "@stairs/date": "workspace:^1.0.0",
+    "@stairs/object": "workspace:^1.0.0"
+  }
+}

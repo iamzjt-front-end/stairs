@@ -1,0 +1,8 @@
+{
+  "name": "@stairs/shared",
+  "version": "1.0.0",
+  "description": "core",
+  "author": "IamZJT",
+  "main": "index.js",
+  "license": "MIT"
+}

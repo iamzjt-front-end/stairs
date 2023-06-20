@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": true,
+    "strict": true,
+    "lib": [
+      "ESNext"
+    ],
+    "paths": {
+      "@stairs/*": [
+        "./packages/*/src"
+      ]
+    },
+    "types": [
+      "vitest/globals"
+    ]
+  },
+  "include": [
+    "packages/*/src",
+    "packages/*/__tests__",
+    "auto-imports.d.ts"
+  ]
+}
