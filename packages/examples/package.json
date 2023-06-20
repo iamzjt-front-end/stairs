@@ -1,0 +1,15 @@
+{
+  "name": "@stairs/examples",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "examples",
+  "author": "IamZJT",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@stairs/core": "1.0.0",
+    "@stairs/date": "1.0.0",
+    "@stairs/array": "1.0.0",
+    "@stairs/object": "1.0.0"
+  }
+}
