@@ -1,5 +1,7 @@
 
 
+## [1.1.0](https://github.com/iamzjt-front-end/stairs/compare/1.0.1...1.1.0) (2023-06-20)
+
 ## 1.0.1 (2023-06-20)
 
 
