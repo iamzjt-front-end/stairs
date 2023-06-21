@@ -8,11 +8,11 @@ export default {
 	input: "./packages/core/src/index.ts",
 	output: [
 		{
-			file: "packages/core/dist/stairs.bundle.cjs.js",
+			file: "packages/core/dist/stairs.cjs-bundler.js",
 			format: "cjs",
 		},
 		{
-			file: "packages/core/dist/stairs.bundle.esm.js",
+			file: "packages/core/dist/stairs.esm-bundler.js",
 			format: "es",
 		},
 	],

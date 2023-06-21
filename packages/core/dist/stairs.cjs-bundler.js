@@ -1,3 +1,5 @@
+"use strict";
+
 /**
  * 判断val是否是一个空对象
  * @param {JTReactive} val
@@ -196,4 +198,7 @@ function useJTRIsEmpty(val) {
 //   });
 // }
 
-export { useJTRIsEmpty };
+function isEmpty() {}
+
+exports.isEmpty = isEmpty;
+exports.useJTRIsEmpty = useJTRIsEmpty;

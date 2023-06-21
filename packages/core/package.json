@@ -1,10 +1,24 @@
 {
   "name": "@stairs/core",
   "version": "0.0.1",
-  "description": "core",
+  "description": "@stairs/core",
   "author": "IamZJT",
-  "main": "index.js",
   "license": "MIT",
+  "main": "index.js",
+  "module": "dist/stairs.esm-bundler.js",
+  "files": [
+    "index.js",
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iamzjt-front-end/stairs.git",
+    "directory": "packages/core"
+  },
+  "keywords": [
+    "stairs"
+  ],
+  "homepage": "https://github.com/iamzjt-front-end/stairs#readme",
   "dependencies": {
     "@stairs/array": "workspace:^0.0.1",
     "@stairs/date": "workspace:^0.0.1",
