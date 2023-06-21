@@ -1,5 +1,12 @@
 
 
+## [0.0.1](https://github.com/iamzjt-front-end/stairs/compare/0.1.1...0.0.1) (2023-06-21)
+
+
+### 🚀 Chore | 构建/工程依赖/工具
+
+* **custom:** version -\> 0.0.0 ([2628306](https://github.com/iamzjt-front-end/stairs/commit/2628306e535a151e1bb0e8130d421e2f8dac6c5a))
+
 ## [0.1.1](https://github.com/iamzjt-front-end/stairs/compare/0.1.0...0.1.1) (2023-06-21)
 
 
