@@ -1,5 +1,12 @@
 
 
+## [0.1.1](https://github.com/iamzjt-front-end/stairs/compare/0.1.0...0.1.1) (2023-06-21)
+
+
+### 📦 Build System | 打包构建
+
+* **custom:** core package.json ([cbddf5f](https://github.com/iamzjt-front-end/stairs/commit/cbddf5fa2acc6bd71277252c33605d1c215a1e1a))
+
 ## [0.1.0](https://github.com/iamzjt-front-end/stairs/compare/1.1.0...0.1.0) (2023-06-21)
 
 
