@@ -12,7 +12,7 @@
     "test": "vitest",
     "build": "rollup -c",
     "build -w": "rollup -c --watch",
-    "commit": "git add . && ./node_modules/cz-customizable/standalone.js",
+    "commit": "git add -A && git cz",
     "release": "release-it",
     "prepare": "npx only-allow pnpm && husky install"
   },
