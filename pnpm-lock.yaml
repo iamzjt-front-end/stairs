@@ -99,61 +99,49 @@ importers:
   packages/array:
     dependencies:
       '@stairs/shared':
-        specifier: workspace:^1.0.0
+        specifier: workspace:^0.0.1
         version: link:../shared
 
   packages/core:
     dependencies:
       '@stairs/array':
-        specifier: workspace:^1.0.0
+        specifier: workspace:^0.0.1
         version: link:../array
       '@stairs/date':
-        specifier: workspace:^1.0.0
+        specifier: workspace:^0.0.1
         version: link:../date
       '@stairs/object':
-        specifier: workspace:^1.0.0
+        specifier: workspace:^0.0.1
         version: link:../object
+      '@stairs/shared':
+        specifier: workspace:^0.0.1
+        version: link:../shared
 
   packages/date:
     dependencies:
       '@stairs/shared':
-        specifier: workspace:^1.0.0
+        specifier: workspace:^0.0.1
         version: link:../shared
-
-  packages/example:
-    dependencies:
-      '@stairs/array':
-        specifier: 1.0.0
-        version: link:../array
-      '@stairs/core':
-        specifier: 1.0.0
-        version: link:../core
-      '@stairs/date':
-        specifier: 1.0.0
-        version: link:../date
-      '@stairs/object':
-        specifier: 1.0.0
-        version: link:../object
 
   packages/examples:
     dependencies:
       '@stairs/array':
-        specifier: 1.0.0
+        specifier: workspace:^0.0.1
         version: link:../array
       '@stairs/core':
-        specifier: 1.0.0
+        specifier: workspace:^0.0.1
         version: link:../core
       '@stairs/date':
-        specifier: 1.0.0
+        specifier: workspace:^0.0.1
         version: link:../date
       '@stairs/object':
-        specifier: 1.0.0
+        specifier: workspace:^0.0.1
         version: link:../object
 
   packages/object:
     dependencies:
       '@stairs/shared':
-        specifier: workspace:^1.0.0
+        specifier: workspace:^0.0.1
         version: link:../shared
 
   packages/shared: {}

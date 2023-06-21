@@ -1,11 +1,11 @@
 {
   "name": "@stairs/object",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A collection of object utilities",
   "main": "index.js",
   "license": "MIT",
   "author": "IamZJT",
   "dependencies": {
-    "@stairs/shared": "workspace:^1.0.0"
+    "@stairs/shared": "workspace:^0.0.1"
   }
 }

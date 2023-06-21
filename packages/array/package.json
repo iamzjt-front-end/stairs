@@ -1,11 +1,11 @@
 {
   "name": "@stairs/array",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A collection of array utilities",
   "author": "IamZJT",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@stairs/shared": "workspace:^1.0.0"
+    "@stairs/shared": "workspace:^0.0.1"
   }
 }
